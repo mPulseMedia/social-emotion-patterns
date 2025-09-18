@@ -1,29 +1,57 @@
-# hello_world_index
+# name_index
 
-## project_files_alphabetical
-crossreference/hello_world_crossreference.md
-doc/hello_world_documentation.md
-index/hello_world_index.md
-requirement/hello_world_requirement.md
-status/hello_world_status.md
-testcase/hello_world_testcase.md
-
-## project_files_by_type
-documentation_files : doc/hello_world_documentation.md
-index_files         : index/hello_world_index.md
-requirement_files   : requirement/hello_world_requirement.md
-status_files        : status/hello_world_status.md
-testcase_files      : testcase/hello_world_testcase.md
-crossreference_files: crossreference/hello_world_crossreference.md
-
-## implementation_files_pending
-html_files          : hello_world.html (pending)
-server_files        : server.py (pending)
-
-## directory_structure
-├── crossreference/
-├── doc/
-├── index/
-├── requirement/
-├── status/
-└── testcase/
+## snake_case_names_used_sorted
+access_method
+browser_access
+browser_compat
+browser_open
+crossreference_file
+css_styling
+cursor_user_story
+display_text
+documentation_file
+env_cursor
+file_encoding
+file_format
+file_minimal
+file_structure
+hello_world
+hello_world_app
+hello_world_documentation
+hello_world_requirement
+hello_world_testcase
+html_version
+index_file
+javascript
+load_time
+page_content
+page_load
+port_number
+requirement_acceptance
+requirement_detail
+requirement_file
+requirement_summary
+server_launch
+server_response
+server_script
+server_shutdown
+server_start
+server_stop
+server_technology
+server_type
+social_emotion_patterns
+start_server
+status_file
+technical_details
+testcase_execution
+testcase_expected
+testcase_file
+testcase_setup
+testcase_summary
+text_check
+text_displays
+usage_instructions
+user_rules
+verify_display
+view_content
+webpage_loads
