@@ -5,7 +5,7 @@ Documentation for environment configuration in the social-emotion-patterns proje
 
 ## Files
 
-env_cursor	env/cursor.txt
+env_cursor	env/cursor_user_story.txt
 Mirror of your Cursor user_rules settings in environment variable format. This file contains your development workflow preferences and coding standards.
 
 ## User Rules Reference
