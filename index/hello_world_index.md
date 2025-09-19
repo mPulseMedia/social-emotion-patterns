@@ -1,57 +1,27 @@
 # name_index
 
 ## snake_case_names_used_sorted
-access_method
-browser_access
-browser_compat
-browser_open
-crossreference_file
-css_styling
-cursor_user_story
-display_text
-documentation_file
-env_cursor
-file_encoding
-file_format
-file_minimal
-file_structure
-hello_world
-hello_world_app
-hello_world_documentation
-hello_world_requirement
-hello_world_testcase
-html_version
-index_file
-javascript
-load_time
-page_content
-page_load
-port_number
-requirement_acceptance
-requirement_detail
-requirement_file
-requirement_summary
-server_launch
-server_response
-server_script
-server_shutdown
-server_start
-server_stop
-server_technology
-server_type
-social_emotion_patterns
-start_server
-status_file
-technical_details
-testcase_execution
-testcase_expected
-testcase_file
-testcase_setup
-testcase_summary
-text_check
-text_displays
-usage_instructions
-user_rules
-verify_display
-view_content
-webpage_loads
+access_method              file_structure             server_launch
+browser_access             hello_world                server_response
+browser_compat             hello_world_app            server_script
+browser_open               hello_world_documentation  server_shutdown
+crossreference_file        hello_world_requirement    server_start
+css_styling                hello_world_testcase       server_stop
+cursor_user_story          html_version               server_technology
+display_text               index_file                 server_type
+documentation_file         javascript                 social_emotion_patterns
+env_cursor                 load_time                  start_server
+file_encoding              page_content               status_file
+file_format                page_load                  technical_details
+file_minimal               port_number                testcase_execution
+                           requirement_acceptance     testcase_expected
+                           requirement_detail         testcase_file
+                           requirement_file           testcase_setup
+                           requirement_summary        testcase_summary
+                                                     text_check
+                                                     text_displays
+                                                     usage_instructions
+                                                     user_rules
+                                                     verify_display
+                                                     view_content
+                                                     webpage_loads
