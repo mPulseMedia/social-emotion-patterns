@@ -28,3 +28,11 @@
 |  |  | verify_display |
 |  |  | view_content |
 |  |  | webpage_loads |
+
+## name_index_maintenance_log
+- comprehensive_review : Added during self_audit
+- compliance_check     : Added during self_audit  
+- name_index_maintenance : Added during update
+- project_update_complete : Added during update
+- self_audit           : Added during self_audit
+- status_sync          : Added during update
