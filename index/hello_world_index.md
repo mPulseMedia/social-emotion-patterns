@@ -10,7 +10,7 @@
 | browser_open | hello_world_documentation | server_shutdown |
 | crossreference_file | hello_world_requirement | server_start |
 | css_styling | hello_world_testcase | server_stop |
-| cursor_user_story | html_version | server_technology |
+| cursor_user_rule | html_version | server_technology |
 | display_text | index_file | server_type |
 | documentation_file | javascript | social_emotion_patterns |
 | env_cursor | load_time | start_server |
